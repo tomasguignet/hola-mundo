@@ -12,6 +12,7 @@ package Nespresso.entidades;
 public class Cafetera {
     private double capacidadMaxima=100;
     private double cantidadActual;
+    private String prueba1;
 
     public Cafetera() {
     }
